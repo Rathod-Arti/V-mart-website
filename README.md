@@ -30,6 +30,7 @@
 * JAVASCRIPT
 * PHP
 * BOOTSTRAP
+* SQL
 
 ### Made By
 <a href = "https://www.linkedin.com/in/arti-rathod-42ba91255" >Rathod Arti</a><br>
